@@ -548,6 +548,8 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
+	
+
 /* List */
 
 	ol {
@@ -1831,4 +1833,9 @@ $baseurl: '{{ site.baseurl }}/images';
 				background-color: darken(_palette(bg), 8);
 			}
 		}
+	}
+
+/* Logo */
+	.spotlight .logo img {
+ 		width:0.02
 	}
