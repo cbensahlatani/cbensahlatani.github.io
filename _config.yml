@@ -2,10 +2,10 @@
 #
 
 # Site settings
-title: Spectral
-description: Céline's portfolio
-owner: Céline Bensahla-tani
-first_published: 2016 # if migrating another site, the year of your first publish
+title: Céline
+description: Let's test it
+owner: Céline Bensahla-tani # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
 email: celine.bensahla@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cbensahlatani.github.io/" # the base hostname & protocol for your site
